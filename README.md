@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mouimita Kabir Ananna
 - 👀 I’m interested in Embedded System, IoT, Robotics, ML and AI
-- 🌱 I’m currently learning about Arm microcontroller programming and Different IoT communication Protocol. 
+- 🌱 I’m currently learning about Arm microcontroller programming and Different IoT communication Protocols. 
 - 📫 If you wants to contract me, you can reach me through mail. My Email address:mkanannakabir@gmail.com 
 
 <!---
