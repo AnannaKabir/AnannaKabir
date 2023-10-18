@@ -1,4 +1,4 @@
-# About Me - The Embedded Wizard 🧙‍♂️
+# Hi there! 👋🧙‍♂️
 
 
 Greetings, fellow explorers of the electronic realm! I'm Moumita Kabir Ananna, your trusty guide to the enchanted world of embedded systems and robotics. With almost three years of navigating this captivating landscape, I'm on a quest to bring circuits to life and make robots dance to the rhythm of code. 🤖💃
