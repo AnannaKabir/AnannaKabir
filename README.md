@@ -20,7 +20,7 @@ Greetings, fellow explorers of the electronic realm! I'm Moumita Kabir Ananna, y
 
 🌐 Networking Aficionado: I'm well-versed in LAN, WAN, WiFi, and BLE. I know how to make devices communicate seamlessly.
 
-🤖 Robotics Enthusiast: I'm not just an embedded guru; I dabble in the world of robots. I develop embedded systems and robots using RTOS and ROS.
+🤖 Robotics Enthusiast: I dabble in the world of robots. I develop embedded systems and robots using RTOS and ROS.
 
 🔬 Diagnosis and Testing Whiz: When things go haywire, I don my detective hat and get to the root of the problem. I love a good challenge.
 
