@@ -23,6 +23,6 @@ I'm a tech enthusiast driven by an insatiable curiosity and an irrepressible urg
 
 ## Get in Touch! 📬
 
-Got questions, collaboration ideas, or just want to chat about the latest tech trends? Feel free to reach out! You can find me on [LinkedIn](www.linkedin.com/in/moumita-kabir-ananna) 
+Got questions, collaboration ideas, or just want to chat about the latest tech trends? Feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/moumita-kabir-ananna/) 
 
 Let's continue this exciting journey of exploration and innovation together! Happy coding! 🚀
