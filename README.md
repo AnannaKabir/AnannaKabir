@@ -1,4 +1,4 @@
-Hey there, curious minds! 👋
+Hey, 
 
 Welcome to my GitHub repository,
 
